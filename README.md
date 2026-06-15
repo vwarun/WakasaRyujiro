@@ -15,9 +15,9 @@
 
 *"The strongest don't wait for permission."*
 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-WakasaRyujiro-red?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Varun%20Wilfred-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com)
-[![Email](https://img.shields.io/badge/Email-contact-333?style=flat-square&logo=gmail)](mailto:your@email.com)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-WakasaRyujiro-red?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/WakasaRyujiro)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Varun%20Wilfred-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/varun-wilfred/)
+[![Email](https://img.shields.io/badge/Email-contact-333?style=flat-square&logo=gmail)](mailto:varunwilfred10@email.com)
 
 </div>
 
