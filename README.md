@@ -17,7 +17,7 @@
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-wakaa-red?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/WakasaRyujiro)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Varun%20Wilfred-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/varun-wilfred/)
-[![Email](https://img.shields.io/badge/Email-varunwilfred10@gmail.com-333?style=flat-square&logo=gmail)](mailto:varunwilfred10@gmail.com)
+[![Email](https://img.shields.io/badge/varunwilfred10@gmail.com-333?style=flat-square&logo=gmail)](mailto:varunwilfred10@gmail.com)
 
 </div>
 
